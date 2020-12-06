@@ -3,5 +3,5 @@ functions="lambda"
 
 [[redirects]]
 from = "/*"
-to = "/getusers"
+to = "/index.html"
 status=200
