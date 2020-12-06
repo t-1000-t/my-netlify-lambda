@@ -1,8 +1,5 @@
 [build]
 functions="lambda"
-command="npm run build"
-base="/functions/getusers"
-pablish="dist"
 
 [[redirects]]
 # from = "/*"
