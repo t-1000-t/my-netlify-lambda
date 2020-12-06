@@ -1,8 +1,8 @@
 [build]
 functions="lambda"
 command="npm run build"
+base="/.netlify/functions/getusers"
 pablish="dist"
-base="/"
 
 [[redirects]]
 # from = "/*"
